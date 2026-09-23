@@ -1,2 +1,0 @@
-username: Warad_Gauri
-password:1234
